@@ -10,4 +10,4 @@ Arguments: c:\fivetouch\fivetouch.prg /n -oc:\fivetouch\fivetouch.c -Ic:\harbour
 
 Working directory: %{buildDir}
 
-[![](https://bitbucket.org/repo/jXo8Kg/images/3878481170-QT_build_settings.JPG)
+[![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/Compile_PRGs_from_QT_Creator.jpg)
