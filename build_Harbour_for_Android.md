@@ -1,5 +1,5 @@
 build.bat
-'''
+```
 @echo off
 
 set SYSROOT=C:\android\ndk\platforms\android-9\arch-arm
@@ -13,4 +13,4 @@ set HB_USER_CFLAGS=--sysroot=C:\android\ndk\platforms\android-14\arch-arm -IC:\a
 set HB_USER_DFLAGS=--sysroot=C:\android\ndk\platforms\android-14\arch-arm
 set HB_USER_LDFLAGS=--sysroot=C:\android\ndk\platforms\android-14\arch-arm -lm
 win-make
-'''
+```
