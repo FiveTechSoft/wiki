@@ -2,6 +2,7 @@
 ***
 
   * [Setup](Setup)
+    * [Compile PRGs from QT Creator](compile_PRGs_from_QT_Creator)
   * [Building FiveWeb]()
     * [Download FiveWeb files](download_fiveweb)
     * [How to build it](how_to_build_FiveWeb)
