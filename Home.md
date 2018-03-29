@@ -3,8 +3,8 @@
 
   * [Setup](Setup)
     * [Compile PRGs from QT Creator](compile_PRGs_from_QT_Creator)
-  * [Building FiveWeb]()
-    * [Download FiveWeb files](download_fiveweb)
+  * [Building FiveTouch]()
+    * [Download FiveTouch](download_fiveweb)
     * [How to build it](how_to_build_FiveWeb)
   * [Examples]()
     * [Tutor01.prg](tutor01_prg)
