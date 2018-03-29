@@ -9,4 +9,5 @@ Command: c:\harbour\bin\harbour
 Arguments: c:\fivetouch\fivetouch.prg /n -oc:\fivetouch\fivetouch.c -Ic:\harbour\include
 
 Working directory: %{buildDir}
+
 ![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/Compile_PRGs_from_QT_Creator.jpg)
