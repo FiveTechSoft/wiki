@@ -4,6 +4,7 @@
   * [Setup](Setup)
     * [Harbour for Android](build_Harbour_for_Android)
     * [Compile PRGs from QT Creator](compile_PRGs_from_QT_Creator)
+    * [Solve QT Creator erros](solve_QT_Creator_errors)
   * [Building FiveTouch]()
     * [Download FiveTouch](download_fiveweb)
     * [How to build it](how_to_build_FiveWeb)
