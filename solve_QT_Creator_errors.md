@@ -21,3 +21,8 @@ to
 
 Strange is: the combobox "Android build Sdk" still is empty... doesn't matter now...
 ```
+
+QT "Could not determine java version from 10" or 9:
+
+Install Java NDK 8 and gets solved
+
