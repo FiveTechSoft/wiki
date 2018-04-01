@@ -1,4 +1,4 @@
-[![](https://bitbucket.org/fivetech/screenshots/downloads/fivetech_logo.gif)](http://www.fivetechsoft.com "FiveTech Software")
+[![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/fivetech_logo.gif)](http://www.fivetechsoft.com "FiveTech Software")
 ***
 
   * [Setup](Setup)
