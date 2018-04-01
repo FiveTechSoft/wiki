@@ -18,5 +18,5 @@
     * [Please donate](Please_donate)
 
 ***
-[![](https://bitbucket.org/fivetech/screenshots/downloads/harbour.jpg)](https://github.com/harbour/core "The Harbour Project")
+[![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/harbour.jpg)](https://harbour.github.io "The Harbour Project")
 
