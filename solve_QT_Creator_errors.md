@@ -32,9 +32,9 @@ Install Java NDK 8 and gets solved
 **"Unable to fetch developer disk image path"**
 
 ```
-find your Xcode APP
-right-click on the APP to get the content
-open Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
-duplicate your 11.3 (...) or so folder
+* find your Xcode APP
+* right-click on the APP to get the content
+* open Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
+* duplicate your 11.3 (...) or so folder
 rename duplicated folder to 11.3
 ```
