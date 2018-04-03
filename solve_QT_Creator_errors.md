@@ -38,3 +38,4 @@ Install Java NDK 8 and gets solved
 * duplicate your 11.3 (...) or so folder
 rename duplicated folder to 11.3
 ```
+***
