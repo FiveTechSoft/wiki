@@ -6,7 +6,7 @@ For iOS (iPhone/iPad). Next post is for simulator:
 git clone https://github.com/harbour/core.git **harbour_ios**
 
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
-
+```
 #!/bin/bash
 
 export IPHONEOS_DEPLOYMENT_TARGET="8.0"
@@ -52,3 +52,4 @@ export HB_STATIC_OPENSSL=1
 export HB_WITH_OPENSSL=/Users/$USER/**harbour_ios**/openssl-1.0.1k/include
 
 make
+```
