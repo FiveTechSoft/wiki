@@ -12,18 +12,18 @@ ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 export IPHONEOS_DEPLOYMENT_TARGET="8.0"
 export QTPATH=/Users/$USER/Qt/5.6/ios
 
-export IOS_PLAT=/Applications/Xcode.app/Contents/Developer/Platforms/**iPhoneOS.platform**
+export IOS_PLAT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform
 export IOS_DEFAULT=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain
-export PATH="/Users/$USER/**harbour_ios**/bin/production:$IOS_PLAT/Developer/usr/bin:$IOS_PLAT/Developer/usr/local/bin:$IOS_PLAT/usr/bin:$IOS_PLAT/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:$IOS_DEFAULT/usr/bin:$IOS_DEFAULT/usr/libexec:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+export PATH="/Users/$USER/harbour_ios/bin/production:$IOS_PLAT/Developer/usr/bin:$IOS_PLAT/Developer/usr/local/bin:$IOS_PLAT/usr/bin:$IOS_PLAT/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:$IOS_DEFAULT/usr/bin:$IOS_DEFAULT/usr/libexec:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
 
-export SDK_INCLUDE=$IOS_PLAT/Developer/SDKs/**iPhoneOS.sdk**/usr/include
+export SDK_INCLUDE=$IOS_PLAT/Developer/SDKs/iPhoneOS.sdk/usr/include
 export SDK_LIB=$IOS_PLAT/Developer/SDKs/iPhoneOS.sdk/usr/lib
 export SDK_LIB_SYSTEM=$IOS_PLAT/Developer/SDKs/iPhoneOS.sdk/usr/lib/system
 
 export HB_BUILD_NAME=-iphone
 export __ios__=yes
 
-export HB_HOST_BIN=/Users/$USER/**harbour**/bin/darwin/clang
+export HB_HOST_BIN=/Users/$USER/harbour/bin/darwin/clang
 
 export HB_WITH_PCRE=local
 export HB_WITH_ZLIB=local
@@ -37,9 +37,9 @@ export HB_WITH_SQLITE3=local
 export HB_BUILD_DYN=no
 export HB_BUILD_PARTS=lib
 
-export HB_USER_CFLAGS=**-arch\ armv7\ -arch\ arm64\** -DHB_MAIN_WIN\ -DHB_BUILD_IOS\ -I$SDK_INCLUDE
-export HB_USER_DFLAGS=**-arch\ armv7\ -arch\ arm64\** -L$SDK_LIB\ -L$SDK_LIB_SYSTEM
-export HB_USER_LDFLAGS=**-arch\ armv7\ -arch\ arm64\** -L$SDK_LIB\ -L$SDK_LIB_SYSTEM
+export HB_USER_CFLAGS=-arch\ armv7\ -arch\ arm64\ -DHB_MAIN_WIN\ -DHB_BUILD_IOS\ -I$SDK_INCLUDE
+export HB_USER_DFLAGS=-arch\ armv7\ -arch\ arm64\ -L$SDK_LIB\ -L$SDK_LIB_SYSTEM
+export HB_USER_LDFLAGS=-arch\ armv7\ -arch\ arm64\ -L$SDK_LIB\ -L$SDK_LIB_SYSTEM
 
 export HB_STATIC_QT=yes
 export HB_QT_MAJOR_VERSION=5
@@ -49,7 +49,7 @@ export HB_WITH_QT=$QTPATH/include
 #export HB_BUILD_3RDEXT=no
 
 export HB_STATIC_OPENSSL=1
-export HB_WITH_OPENSSL=/Users/$USER/**harbour_ios**/openssl-1.0.1k/include
+export HB_WITH_OPENSSL=/Users/$USER/harbour_ios/openssl-1.0.1k/include
 
 make
 ```
