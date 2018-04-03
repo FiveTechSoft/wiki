@@ -2,9 +2,8 @@ For iOS (iPhone/iPad). Next post is for simulator:
 
 [url]https://bitbucket.org/fivetech/harbour-xharbour-builds/downloads/harbour_ios_20160401.zip[/url]
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
+```html
+<p style=color:red;>harbour_ios</p>
 ```
 
 [b]To build it:[/b]
