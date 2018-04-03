@@ -3,7 +3,7 @@ For iOS (iPhone/iPad). Next post is for simulator:
 [url]https://bitbucket.org/fivetech/harbour-xharbour-builds/downloads/harbour_ios_20160401.zip[/url]
 
 [b]To build it:[/b]
-git clone https://github.com/harbour/core.git <span style="color:blue">some *blue* text</span> <p style=color:red;>harbour_ios</p>
+git clone https://github.com/harbour/core.git <p style=color:red;>harbour_ios</p> <span style=“color:green;”> text goes here</span>
 
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 
