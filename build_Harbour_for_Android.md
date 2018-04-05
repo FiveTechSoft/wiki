@@ -85,4 +85,3 @@ c:\harbour\bin\hbmk2 qtcontribs.hbp
 ```
 
 ***
-[![](https://bitbucket.org/fivetech/screenshots/downloads/harbour.jpg)](https://github.com/harbour/core "The Harbour Project")
