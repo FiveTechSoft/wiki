@@ -11,7 +11,7 @@ ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 #!/bin/bash
 
 export IPHONEOS_DEPLOYMENT_TARGET="8.0"
-export QTPATH=/Users/$USER/Qt/5.6/ios
+export QTPATH=/Users/$USER/Qt/5.10.1/ios
 
 export IOS_PLAT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform
 export IOS_DEFAULT=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain
