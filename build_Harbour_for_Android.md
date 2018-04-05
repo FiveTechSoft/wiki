@@ -1,6 +1,3 @@
-[![](https://bitbucket.org/fivetech/screenshots/downloads/fivetech_logo.gif)](http://www.fivetechsoft.com "FiveTech Software")
-***
-
 **Important:** Avoid the next steps and simply [download it already built from here](https://github.com/FiveTechSoft/fivetouch/blob/master/Harbour%20for%20Android/Harbour_for_Android_with_QT_and_Scintilla_libs.zip)
 
 ***
