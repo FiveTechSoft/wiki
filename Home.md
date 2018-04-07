@@ -1,6 +1,7 @@
   * [Setup](Setup)
     * [Harbour for Android](build_Harbour_for_Android)
     * [Harbour for iOS](build_Harbour_for_iOS)
+    * [Building qtcontribs](building qtcontribs)
     * [Solve QT Creator errors](solve_QT_Creator_errors)
   * [Building FiveTouch]()
     * [Download FiveTouch](download_fivetouch)
