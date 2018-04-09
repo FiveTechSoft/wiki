@@ -1,6 +1,8 @@
-**export HB_QTPATH=/Users/$USER/Qt/5.8/ios/bin**
+**export QTPATH=/Users/$USER/Qt/5.8/ios**
+**export HB_QTPATH=$QTPATH/bin**
+**export HB_WITH_QT=$QTPATH/include**
 
-to check it:
+to check them:
 
 **echo "$HB_QTPATH"**
 
