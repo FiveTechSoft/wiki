@@ -1,4 +1,4 @@
-**export HB_QTPATH=/Users/anto/Qt/5.8/ios/bin**
+**export HB_QTPATH=/Users/$USER/Qt/5.8/ios/bin**
 
 to check it:
 
