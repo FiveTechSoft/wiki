@@ -30,7 +30,11 @@ For iOS (iPhone/iPad):
 
 >qtcontribs/qtcontribs.hbp
 
+**6**. When building Harbour some fixes are required:
 
+In hbrunfun.c comment this line:
+
+         >// iResult = system( hb_osEncodeCP( pszCommand, &pszFree, NULL ) );
 
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 ```
