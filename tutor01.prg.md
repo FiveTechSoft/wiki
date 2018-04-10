@@ -1,4 +1,4 @@
-```
+```xbase
 #include "FiveTouch.ch"
 
 function Main()
