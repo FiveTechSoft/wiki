@@ -2,7 +2,7 @@ For iOS (iPhone/iPad):
 
 [Download here Harbour for iOS](https://bitbucket.org/fivetech/harbour-xharbour-builds/downloads/harbour_ios_20160401.zip)
 
-**To build it:**
+**or build it:**
 
 git clone https://github.com/harbour/core.git **harbour_ios**
 
