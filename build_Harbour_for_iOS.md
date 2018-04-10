@@ -12,7 +12,7 @@ mkdir qtcontribs
 
 Download qtcontribs source code there:
 
-
+git clone https://github.com/FiveTechSoft/qtcontribs qtcontribs
 
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 ```
