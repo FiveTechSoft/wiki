@@ -34,7 +34,9 @@ For iOS (iPhone/iPad):
 
 In hbrunfun.c comment this line:
 
+```
 // iResult = system( hb_osEncodeCP( pszCommand, &pszFree, NULL ) );
+```
 
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 ```
