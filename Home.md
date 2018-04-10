@@ -8,7 +8,7 @@
     * [Download FiveTouch](download_fivetouch)
     * [How to build it](how_to_build_Fivetouch)
   * [Examples]()
-    * [Tutor01.prg](tutor01_prg)
+    * [Tutor01.prg](tutor01.prg)
     * [Tutor02.prg](tutor02_prg)
     * [Tutor03.prg](tutor03_prg)
   * [forms designer](fivetouch_forms_designer)
