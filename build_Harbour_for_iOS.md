@@ -14,6 +14,24 @@ Download qtcontribs source code there:
 
 git clone https://github.com/FiveTechSoft/qtcontribs qtcontribs
 
+go to qtcontribs folder and edit qtcontribs.hbp:
+
+nano qtcontribs.hbp
+
+comment out this line:
+
+#debug/hwgdebug.hbp
+
+and add this new line:
+
+hbqt/qtcore/qscintilla.hbp
+
+Finally go to contribs folder, edit hbplist.txt and this line at the top:
+
+qtcontribs/qtcontribs.hbp
+
+
+
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 ```
 #!/bin/bash
