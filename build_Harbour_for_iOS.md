@@ -24,7 +24,7 @@ For iOS (iPhone/iPad):
 
 >and add this new line:
 
->hbqt/qtcore/qscintilla.hbp
+>hbqt/qscintilla/qscintilla.hbp
 
 **5**. Finally go to contribs folder, edit hbplist.txt and this line at the top:
 
