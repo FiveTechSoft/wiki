@@ -8,27 +8,27 @@ For iOS (iPhone/iPad):
 
 2. go to harbour_ios/contrib and create a folder qtcontribs:
 
-mkdir qtcontribs
+>mkdir qtcontribs
 
 3. Download qtcontribs source code there:
 
-git clone https://github.com/FiveTechSoft/qtcontribs qtcontribs
+>git clone https://github.com/FiveTechSoft/qtcontribs qtcontribs
 
 4. go to qtcontribs folder and edit qtcontribs.hbp:
 
-nano qtcontribs.hbp
+>nano qtcontribs.hbp
 
-comment out this line:
+>comment out this line:
 
-#debug/hwgdebug.hbp
+>#debug/hwgdebug.hbp
 
-and add this new line:
+>and add this new line:
 
-hbqt/qtcore/qscintilla.hbp
+>hbqt/qtcore/qscintilla.hbp
 
 5. Finally go to contribs folder, edit hbplist.txt and this line at the top:
 
-qtcontribs/qtcontribs.hbp
+>qtcontribs/qtcontribs.hbp
 
 
 
