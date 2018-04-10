@@ -6,6 +6,14 @@ For iOS (iPhone/iPad):
 
 git clone https://github.com/harbour/core.git **harbour_ios**
 
+go to harbour_ios/contrib and create a folder qtcontribs:
+
+mkdir qtcontribs
+
+Download qtcontribs source code there:
+
+
+
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 ```
 #!/bin/bash
