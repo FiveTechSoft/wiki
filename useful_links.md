@@ -4,3 +4,7 @@
 * [Advanced project features (2)](https://github.com/hipersayanX/FlexBisonQt/blob/master/FlexBisonQt.pro)
 
 ***
+
+To inspect the supported types of a library:
+
+lipo -info libhqscintilla.a
