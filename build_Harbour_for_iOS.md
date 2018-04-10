@@ -4,17 +4,17 @@ For iOS (iPhone/iPad):
 
 **or build it:**
 
-1. git clone https://github.com/harbour/core.git **harbour_ios**
+**1**. git clone https://github.com/harbour/core.git **harbour_ios**
 
-2. go to harbour_ios/contrib and create a folder qtcontribs:
+**2**. go to harbour_ios/contrib and create a folder qtcontribs:
 
 >mkdir qtcontribs
 
-3. Download qtcontribs source code there:
+**3**. Download qtcontribs source code there:
 
 >git clone https://github.com/FiveTechSoft/qtcontribs qtcontribs
 
-4. go to qtcontribs folder and edit qtcontribs.hbp:
+**4**. go to qtcontribs folder and edit qtcontribs.hbp:
 
 >nano qtcontribs.hbp
 
@@ -26,7 +26,7 @@ For iOS (iPhone/iPad):
 
 >hbqt/qtcore/qscintilla.hbp
 
-5. Finally go to contribs folder, edit hbplist.txt and this line at the top:
+**5**. Finally go to contribs folder, edit hbplist.txt and this line at the top:
 
 >qtcontribs/qtcontribs.hbp
 
