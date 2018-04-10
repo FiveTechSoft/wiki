@@ -38,14 +38,13 @@ In hbrunfun.c comment this line:
 // iResult = system( hb_osEncodeCP( pszCommand, &pszFree, NULL ) );
 ```
 
-ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
-```
-
 In run.c comment this line:
 
 ```
 // if( system( hb_osEncodeCP( pszCommand, &pszFree, NULL ) ) != 0 ) {}
 ```
+
+ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
 #!/bin/bash
 
 export IPHONEOS_DEPLOYMENT_TARGET="8.0"
