@@ -45,6 +45,7 @@ In run.c comment this line:
 ```
 
 ios.sh      (remember to do chmod +x ios.sh. To execute it ./ios.sh)
+```
 #!/bin/bash
 
 export IPHONEOS_DEPLOYMENT_TARGET="8.0"
