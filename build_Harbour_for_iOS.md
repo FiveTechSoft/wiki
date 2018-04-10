@@ -30,7 +30,17 @@ For iOS (iPhone/iPad):
 
 >qtcontribs/qtcontribs.hbp
 
-**6**. When building Harbour some fixes are required:
+**6**. Download QScintilla from here:
+
+>https://www.riverbankcomputing.com/software/qscintilla/download
+
+>https://sourceforge.net/projects/pyqt/files/QScintilla2/QScintilla-2.10.3/QScintilla_gpl-2.10.3.tar.gz
+
+uncompress it here:
+
+>/Users/$USER/QScintilla_gpl-2.10.3
+
+**7**. When building Harbour some fixes are required:
 
 In hbrunfun.c comment this line:
 
