@@ -10,7 +10,12 @@
 
 | Methods  | Description |
 | ------------- | ------------- |
-| [Messages](Messages_functions)  | User interaction messages |
-| [System](System_functions)  | General system utilities  |
-| [Themes](Themes_functions)  | Colors and appearance of the app  |
-| [Files](Files_functions)  | files management functions  |
+| New() | Constructor |
+| PhoneMode() | Organizes the IDE in phone mode |
+| OpenFile() | Opens a file |
+| SaveFile() | Saves the shown source code to a file |
+| SelFile() | Lets the user selects a file from disk |
+| Setup() | Shows the settings dialogs of the IDE |
+| SetupEditor() | Configures a just created editor |
+| CloseFile() | Closes the current edited source code |
+| FillFuncList() | Refresh the functions list in the edited source code |
