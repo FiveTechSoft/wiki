@@ -6,3 +6,4 @@
 | [DataLocation()](function_DataLocation())  | Returns the path to the app data folder |
 | [DownloadLocation()](function_DownloadLocation())  | Returns the path to the Downloads folder |
 | [nRgb()](function_nRgb()) | Returns a nRGB color from its red, green and blue values|
+| [WndSetColor( oWnd, nRGBColor )](function_WndSetColor()) | Set the color of a window from a nRGB value|
