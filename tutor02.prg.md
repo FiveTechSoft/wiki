@@ -17,3 +17,4 @@ function Main()
 
 return nil
 ```
+![tutor02.prg](https://github.com/FiveTechSoft/fivetouch/blob/master/images/tutor02.png)
