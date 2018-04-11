@@ -1,4 +1,3 @@
-[![](https://bitbucket.org/fivetech/screenshots/downloads/fivetech_logo.gif)](http://www.fivetechsoft.com "FiveTech Software")
 ***
 
 If you like this project and want to support this project development please support us with a little donation:
