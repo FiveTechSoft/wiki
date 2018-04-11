@@ -1,4 +1,5 @@
-| Categories  | Second Header |
+| Categories  | Description |
 | ------------- | ------------- |
-| Messages  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Messages  | User interaction messages |
+| System  | General system utilities  |
+| Themes  | Colors and appearance of the app  |
