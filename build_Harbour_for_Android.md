@@ -45,11 +45,7 @@ win-make
 It will create this batch file that finally creates Harbour for Android:
 
 goand.bat
-```
-#!msdos
-
-@echo off
-
+```bash
 set HB_PLATFORM=android
 set HB_COMPILER=gccarm
 set HB_CCPREFIX=C:\android\ndk\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-
