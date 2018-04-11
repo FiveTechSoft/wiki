@@ -8,7 +8,7 @@
     * [Download FiveTouch](download_fivetouch)
     * [How to build it](how_to_build_Fivetouch)
   * [Documentation]()
-    * [Functions](FiveTouch functions)
+    * [Functions](FiveTouch_functions)
   * [Examples]()
     * [Tutor01.prg](tutor01.prg)
     * [Tutor02.prg](tutor02.prg)
