@@ -10,6 +10,7 @@
   * [Documentation]()
     * [Functions](FiveTouch_functions)
     * [Harbour docs](https://harbour.github.io/doc/)
+    * [QT gui docs](https://doc.qt.io/qt-5.10/qtquickcontrols-index.html)
   * [Examples]()
     * [Tutor01.prg](tutor01.prg)
     * [Tutor02.prg](tutor02.prg)
