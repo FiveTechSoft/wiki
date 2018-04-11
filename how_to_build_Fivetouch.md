@@ -3,3 +3,5 @@
 https://www.qt.io/download
 
 **2**. Open fivetouch.pro from QT Creator
+
+**3**. Build it 
