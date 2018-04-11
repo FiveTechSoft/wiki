@@ -9,6 +9,7 @@
     * [How to build it](how_to_build_Fivetouch)
   * [Reference guide]()
     * [Functions](FiveTouch_functions)
+    * [Class TIde](Class_TIde)
     * [Harbour docs](https://harbour.github.io/doc/)
     * [QT gui docs](https://doc.qt.io/qt-5.10/qtquickcontrols-index.html)
   * [Examples]()
