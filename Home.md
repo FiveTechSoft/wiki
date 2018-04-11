@@ -9,6 +9,7 @@
     * [How to build it](how_to_build_Fivetouch)
   * [Documentation]()
     * [Functions](FiveTouch_functions)
+    * [Harbour docs](https://harbour.github.io/doc/)
   * [Examples]()
     * [Tutor01.prg](tutor01.prg)
     * [Tutor02.prg](tutor02.prg)
