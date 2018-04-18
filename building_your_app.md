@@ -1,1 +1,1 @@
-If you name your app as **init.prg** then FiveTouch will automatically execute it at its start and FiveTouch will not be shown!
+If you name your app as **init.prg** then FiveTouch will automatically execute it at its start and FiveTouch interface will not be shown!
