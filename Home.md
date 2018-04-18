@@ -7,6 +7,7 @@
   * [Building FiveTouch]()
     * [Download FiveTouch](download_fivetouch)
     * [How to build it](how_to_build_Fivetouch)
+    * [Building your app](building_your_app)
   * [Reference guide]()
     * [Functions](FiveTouch_functions)
     * [Class TIde](Class_TIde)
