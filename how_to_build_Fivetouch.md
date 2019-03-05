@@ -8,4 +8,8 @@ https://www.qt.io/download
 
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-**4**. Build it 
+**4** Download Android NDK from here:
+
+https://developer.android.com/ndk/downloads
+
+**5**. Build it 
