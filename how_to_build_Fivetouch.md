@@ -12,4 +12,12 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.
 
 https://developer.android.com/ndk/downloads
 
-**5**. Build it 
+**5** QT Creator settings
+
+Android SDK location: (install Android Studio so the right one gets installed!)
+/Users/anto/Library/Android/sdk
+
+Android NDK location:
+/Users/anto/android-ndk-r18b
+
+**6**. Build it 
