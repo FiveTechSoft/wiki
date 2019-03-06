@@ -18,6 +18,7 @@ Android SDK location: (install Android Studio so the right one gets installed!)
 /Users/anto/Library/Android/sdk
 
 Android NDK location:
+
 /Users/anto/android-ndk-r18b
 
 **6**. Build it 
