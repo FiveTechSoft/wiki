@@ -21,4 +21,6 @@ Android NDK location:
 
 /Users/anto/android-ndk-r18b
 
+![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/QT_Creator_Settings.png)
+
 **6**. Build it 
