@@ -26,5 +26,5 @@ Android NDK location:
 **6**. Build it 
 
 If you get errors that can't identify, go to:
-/Users/<username>/fivetouch/build-fivetouch-Android_for_armeabi_v7a_Clang_Qt_5_12_1_for_Android_ARMv7-Release
+/Users/username/fivetouch/build-fivetouch-Android_for_armeabi_v7a_Clang_Qt_5_12_1_for_Android_ARMv7-Release
 and call make. You will see what the QT Creator Makefile reports.
