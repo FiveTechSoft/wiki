@@ -14,7 +14,7 @@ https://developer.android.com/ndk/downloads
 
 **5** QT Creator settings
 
-Java JDK location:
+**Java JDK location:**
 
 Run this from the terminal:
 /usr/libexec/java_home
@@ -22,10 +22,10 @@ Run this from the terminal:
 and you will get:
 /Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home
 
-Android SDK location: (install Android Studio so the right one gets installed!)
+**Android SDK location:** (install Android Studio so the right one gets installed!)
 /Users/anto/Library/Android/sdk
 
-Android NDK location:
+**Android NDK location:**
 
 /Users/anto/android-ndk-r18b
 
