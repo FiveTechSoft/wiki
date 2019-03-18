@@ -29,7 +29,7 @@ and you will get:
 
 /Users/anto/Library/Android/sdk/ndk-bundle
 
-![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/QT_Creator_Settings2.png)
+![](https://github.com/FiveTechSoft/screenshots/blob/master/QT_Creator_Settings2.png)
 
 **6**. Build it 
 
