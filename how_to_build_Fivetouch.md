@@ -27,7 +27,7 @@ and you will get:
 
 **Android NDK location:**
 
-/Users/anto/android-ndk-r18b
+/Users/anto/Library/Android/sdk/ndk-bundle
 
 ![](https://github.com/FiveTechSoft/fivetouch/blob/master/images/QT_Creator_Settings.png)
 
