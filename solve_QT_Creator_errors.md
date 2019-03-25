@@ -1,4 +1,4 @@
-Important: NDK Version: 19.2.5345600 fails!!! (Houdini error). Use 
+Important: NDK Version: 19.2.5345600 fails!!! (Houdini error). Use NDK Version: 19.1.5304403
 
 [**Android build sdk not defined**](https://forum.qt.io/topic/83476/android-build-sdk-not-defined-check-android-settings-qt-5-9-1-qtcreator-4-4-0-with-android-studio/16)
 
